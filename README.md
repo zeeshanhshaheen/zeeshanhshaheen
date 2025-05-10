@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Zeeshan Haider Shaheen! 🌍  
 
-🚀 **Frontend Developer** | 🎨 **UI/UX Enthusiast** | 🌱 **Tech Explorer**  
+🚀 **Software Developer** | 🎨 **UI/UX Enthusiast** | 🌱 **Tech Explorer**  
 
-Welcome to my GitHub profile! I am a result-oriented Frontend Developer with over 2 years of experience, specializing in crafting user-centric applications and leveraging modern technologies to drive efficiency and engagement. Let's build something amazing together! 🚀  
+Welcome to my GitHub profile! I am a result-oriented Frontend Developer with 3+ years of experience, specializing in crafting user-centric applications and leveraging modern technologies to drive efficiency and engagement. Let's build something amazing together! 🚀  
 
 ---
 
