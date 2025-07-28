@@ -31,7 +31,7 @@ Welcome to my GitHub profile! I am a result-oriented Software Developer with 3+ 
 ## 🏢 **Experience**
 
 ### **Software Engineer (Part-Time)**  
-**TeamViewer** | Bremen, Germany *(June 2023 – Present)*  
+**TeamViewer** | Bremen, Germany *(June 2023 – Jun 2025)*  
 - Leveraged **Angular**, **SASS**, **JavaScript**, and **TypeScript** to develop robust file handling features for **FileManager**, enhancing client workflows.  
 - Debugged and resolved critical UI issues, significantly improving the stability of **TeamViewer Frontline**.  
 - Led UI/UX enhancements for the **Frontline Project**, driving user satisfaction and technical excellence.  
