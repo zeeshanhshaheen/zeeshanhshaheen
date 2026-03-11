@@ -2,7 +2,7 @@
 
 🚀 **Senior Frontend Engineer** | 🎨 **UI/UX Enthusiast** | 🌱 **Tech Explorer**  
 
-Welcome to my GitHub profile! I am a result-oriented Software Developer with 3+ years of experience, specializing in crafting user-centric applications and leveraging modern technologies to drive efficiency and engagement. Let's build something amazing together! 🚀  
+Welcome to my GitHub profile! I am a result-oriented Software Developer with 5+ years of experience, specializing in crafting user-centric applications and leveraging modern technologies to drive efficiency and engagement. Let's build something amazing together! 🚀  
 
 ---
 
