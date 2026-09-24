@@ -1,98 +1,35 @@
-# 👋 Hi, I'm Zeeshan Haider Shaheen! 🌍  
+# Hey, I'm Zeeshan 👋
 
-🚀 **Senior Frontend Engineer** | 🎨 **UI/UX Enthusiast** | 🌱 **Tech Explorer**  
+### Software Engineer · Frontend & AI Product Engineering
 
-Welcome to my GitHub profile! I am a result-oriented Software Developer with 5+ years of experience, specializing in crafting user-centric applications and leveraging modern technologies to drive efficiency and engagement. Let's build something amazing together! 🚀  
+I build products where complex data feels approachable. Over the past **5+ years**, I've worked on everything from enterprise interfaces and real-time applications to AI-powered search, analysis, and data exploration. I care about the whole journey: a useful idea, a thoughtful interface, reliable code, and a feature that works in production.
 
----
+📍 Based in Germany · 🎓 Digital Media Informatics, University of Bremen
 
-## 🛠️ **Skills**
+## 🔭 What I'm building now
 
-### **Frontend**
-![HTML5](https://img.icons8.com/color/96/html-5.png) ![CSS3](https://img.icons8.com/color/96/css3.png) ![JavaScript](https://img.icons8.com/color/96/javascript.png)  
-![TypeScript](https://img.icons8.com/color/96/typescript.png) ![React](https://img.icons8.com/color/96/react-native.png) ![Angular](https://img.icons8.com/color/96/angularjs.png)  
-![Redux](https://img.icons8.com/color/96/redux.png) ![Next.js](https://img.icons8.com/color/96/nextjs.png)
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="Tailwind CSS" width="72" height="72">   
-![SASS](https://img.icons8.com/color/96/sass.png) ![Bootstrap](https://img.icons8.com/color/96/bootstrap.png)  
+At **ISTARI.ai**, I work across React, Next.js, TypeScript, and Python to ship data-intensive product features. My work includes conversational search, LLM-generated workflows, interactive maps and visualizations, access control, automated tests, and production deployments on AWS and GCP.
 
----
+Before that, at **TeamViewer**, I built enterprise workflows for Frontline, including file management, real-time smart-glass telemetry, and an AI-powered call transcription and summary experience. That feature contributed to a client contract extension and doubled project funding.
 
-### **Design Tools**
-![Figma](https://img.icons8.com/color/96/figma.png) ![Storybook](https://img.icons8.com/color/96/storybook.png)  
+## 🧰 My toolkit
 
----
+| Area | Tools |
+| --- | --- |
+| **Frontend** | React, Next.js, Angular, TypeScript, JavaScript, Zustand, Redux |
+| **UI & data** | Tailwind CSS, shadcn/ui, Storybook, D3.js, AG Grid, Chart.js, Figma |
+| **Backend & cloud** | Python, Node.js, Express, REST, GraphQL, AWS, GCP, Docker, Terraform |
+| **Quality & delivery** | Jest, Vitest, Playwright, GitHub Actions, CI/CD, accessibility, responsive design |
 
-### **Version Control & Collaboration**
-![Git](https://img.icons8.com/color/96/git.png) ![GitHub](https://img.icons8.com/material-outlined/96/github.png)  
-![Jira](https://img.icons8.com/color/96/jira.png)  
+## ✨ Selected work
 
----
+- **[TeamViewer Frontline](https://www.teamviewer.com/en/frontline/)** — Enterprise interfaces for file handling, telemetry, call history, and AI-assisted meeting summaries.
+- **[SwitchRewardCard](https://app.switchrewardcard.com)** — Rewards, transaction history, and cryptocurrency product interfaces built with React, Next.js, TypeScript, and Storybook.
 
-## 🏢 **Experience**
+## 💡 What drives me
 
-### **Software Engineer (Part-Time)**  
-**TeamViewer** | Bremen, Germany *(June 2023 – Jun 2025)*  
-- Leveraged **Angular**, **SASS**, **JavaScript**, and **TypeScript** to develop robust file handling features for **FileManager**, enhancing client workflows.  
-- Debugged and resolved critical UI issues, significantly improving the stability of **TeamViewer Frontline**.  
-- Led UI/UX enhancements for the **Frontline Project**, driving user satisfaction and technical excellence.  
+I enjoy the intersection of **engineering, product, and design**: making powerful features understandable, turning Figma designs into components people can reuse, and owning the details from implementation through testing and release. Lately, I'm especially interested in building AI features that help people get useful answers from complex data.
 
-### **Frontend Developer (Part-Time)**  
-**Michelberger Digital** | Remote *(April 2022 – July 2022)*  
-- Developed a comprehensive **Tailwind CSS component library** aligned with **Figma** designs for streamlined UI development.  
-- Created scalable frontend building blocks using **React.js** and **TypeScript**, enhancing application maintainability.  
-- Conducted research and benchmarking to ensure the adoption of best-in-class solutions.  
+## 🤝 Let's connect
 
-### **Software Engineer (Full-Time)**  
-**Invotyx** | Rawalpindi, Pakistan *(June 2021 – November 2021)*  
-- Designed responsive and scalable frontends using **React.js** and **Next.js** for social media and food delivery platforms.  
-- Enhanced user engagement and usability through innovative feature implementation.  
-
-### **Frontend Developer (Contract)**  
-**Octalogix** | Lahore, Pakistan *(July 2020 – March 2021)*  
-- Built dynamic frontend applications with **React.js** and **Next.js** to enhance user experiences.  
-- Designed intuitive UI using **Figma**, contributing to cohesive and engaging interfaces.  
-
----
-
-## 🎓 **Education**
-
-- **Masters in Digital Media Informatics**  
-  Bremen, Germany *(Oct 2022 – Mar 2025)*  
-
-- **Bachelors in Computer Science**  
-  Islamabad, Pakistan *(Aug 2015 – Jun 2020)*  
-
----
-
-## 🌟 **Highlighted Projects**
-
-### 🔥 [SwitchRewardCard](https://app.switchrewardcard.com)  
-- **Tech Stack**: React.js, Next.js, TypeScript, Storybook  
-- Architected a blockchain-based financial services ecosystem with cryptocurrency functionality.  
-- Developed a Rewards Table, advanced Transaction History, and secure cryptocurrency handling features.  
-
-### 🍽️ [Skanmi](https://skanmi.com)  
-- **Tech Stack**: React.js, Next.js, Material UI  
-- Enhanced a Sweden-based food delivery application with buffet tracking, dynamic filtering, and location-based ordering.  
-- Led the comprehensive redesign based on modern UI/UX principles.  
-
-### 🗂️ [Teamviewer Frontline Project](https://www.teamviewer.com/en/frontline/)  
-- **Tech Stack**: Angular, TypeScript, SASS  
-- Enhanced workflows and developed file handling features to improve usability and data accessibility.
-- Developed and integrated a transcription and summary feature for in-call interactions, enabling real-time insights and streamlined communication.
-
----
-
-## 🌐 **Find Me Online**
-
-- **Portfolio**: [zeeshanhshaheen.tech](https://zeeshanhshaheen.tech)  
-- **LinkedIn**: [Zeeshan Haider Shaheen](https://www.linkedin.com/in/zeeshanhshaheen/)  
-- **Twitter**: [@zeeshanhshaheen](https://twitter.com/zeeshanhshaheen)  
-- **GitHub**: [zeeshanhshaheen](https://github.com/zeeshanhshaheen)  
-- **Dev.to**: [zeeshanhshaheen](https://dev.to/zeeshanhshaheen)  
-
-📧 **Email**: [zeeshanhshaheen@gmail.com](mailto:zeeshanhshaheen@gmail.com)  
-
----
-
-🌟 *Feel free to connect and collaborate on exciting projects!* 🌟  
+🌐 [Portfolio](https://zeeshanhshaheen.tech) · 💼 [LinkedIn](https://www.linkedin.com/in/zeeshanhshaheen/) · ✍️ [Dev.to](https://dev.to/zeeshanhshaheen) · 📫 [Email](mailto:zeeshanhshaheen@gmail.com)
