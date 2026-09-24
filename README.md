@@ -32,4 +32,4 @@ I enjoy the intersection of **engineering, product, and design**: making powerfu
 
 ## 🤝 Let's connect
 
-🌐 [Portfolio](https://zeeshanhshaheen.tech) · 💼 [LinkedIn](https://www.linkedin.com/in/zeeshanhshaheen/) · ✍️ [Dev.to](https://dev.to/zeeshanhshaheen) · 📫 [Email](mailto:zeeshanhshaheen@gmail.com)
+🌐 [Portfolio](https://zeeshanhshaheen.com) · 💼 [LinkedIn](https://www.linkedin.com/in/zeeshanhshaheen/) · ✍️ [Dev.to](https://dev.to/zeeshanhshaheen) · 📫 [Email](mailto:zeeshanhshaheen@gmail.com)
